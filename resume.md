@@ -10,14 +10,18 @@ Mahasiswa Ilmu Komputer IPB *Asrama Putra IPB C2/3/142<br>+62852-1185-7917 muham
 	### SDN Mekarjaya 27
 	<p>Juni 2004 - April 2010</p>	
 	### Ekstrakulikuler yang pernah diikuti
-	- Rohani Islam SMPN 3 Depok
-	- Pramuka SMPN 3 Depok
-	- Smada Robotic Club SMAN 2 Depok
-	- Pramuka SMAN 2 Depok
+	<ul>
+	<li>Rohani Islam SMPN 3 Depok</li>
+	<li>Pramuka SMPN 3 Depok</li>
+	<li>Smada Robotic Club SMAN 2 Depok</li>
+	<li>Pramuka SMAN 2 Depok</li>
+	</ul>
 	## Keahlian
-	- C programmer
-	- SuperUser
-	- Designer
+	<ul>
+	<li>C programmer</li>
+	<li>SuperUser</li>
+	<li>Designer</li>
+	</ul>
 	## Hobi
 	<p>Bermain, mencoba hal yang baru, dan berinovasi</p>
 	<body>
