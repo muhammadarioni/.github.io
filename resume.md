@@ -3,9 +3,9 @@ Mahasiswa Ilmu Komputer IPB *Asrama Putra IPB C2/3/142<br>+62852-1185-7917 muham
 	<br>
 	<br>
 ## Pendidikan 
-### SMAN 2 Depok
+**SMAN 2 Depok**
 <p>Juni 2013 - April 2016</p>
-### SMPN 3 Depok
+**SMPN 3 Depok**
 <p>Juni 2010 - April 2013</p>
 ### SDN Mekarjaya 27
 <p>Juni 2004 - April 2010</p>
