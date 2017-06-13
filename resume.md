@@ -8,7 +8,7 @@ Mahasiswa Ilmu Komputer IPB *Asrama Putra IPB C2/3/142<br>+62852-1185-7917 muham
 ### SMPN 3 Depok
 <p>Juni 2010 - April 2013</p>
 ### SDN Mekarjaya 27
-<p>Juni 2004 - April 2010</p>	
+<p>Juni 2004 - April 2010</p>
 ## Ekstrakulikuler yang pernah diikuti
 <ul>
 <li>Rohani Islam SMPN 3 Depok</li>
