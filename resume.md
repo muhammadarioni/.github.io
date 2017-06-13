@@ -1,5 +1,5 @@
 # Muhammad Arioni
-Mahasiswa Ilmu Komputer IPBAsrama Putra IPB C2/3/142<br>+62852-1185-7917<br>muhammad.arioni@gmail.com</address>
+Mahasiswa Ilmu Komputer IPB *Asrama Putra IPB C2/3/142<br>+62852-1185-7917 muhammad.arioni@gmail.com*
 	<br>
 	Pendidikan
 	SMAN 2 Depok
